@@ -1,0 +1,62 @@
+body
+{
+  background-image: url("images/bg-desktop.svg");
+  background-color: hsl(257, 40%, 49%);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1
+{
+  font-weight: 700;
+  color: white;
+  font-size: 4rem;
+}
+
+p
+{
+  color: white;
+  font-weight: 400;
+  font-size: 1.5rem;
+  padding: 50px 0;
+}
+
+.Content
+{
+  padding: 5rem 10rem 0 10rem;
+}
+
+.custom-btn
+{
+  border-radius: 100px;
+  width: 27.5%;
+  box-shadow: 5px 5px 8px black;
+  font-family: 'Open Sans', sans-serif;
+  color: purple;
+}
+
+.logo
+{
+  padding-top: 50px;
+  padding-left: 8%;
+}
+
+.socials
+{
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 5rem;
+  font-size: 3rem;
+  color: white;
+}
+
+.facebook
+{
+  margin-right: 50px;
+  display: block;
+}
+
+.twitter
+{
+  margin-right: 50px;
+  display: block;
+}

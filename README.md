@@ -1,3 +1,3 @@
 # Home-Page-Advertisement
 
-A home page for a company to lay out their main information.
+A responsive home page for a company to lay out their main information.
